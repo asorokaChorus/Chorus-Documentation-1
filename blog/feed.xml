@@ -5,14 +5,14 @@
         <link>https://docs.chorus.cloud/blog</link>
         <description>The best place to stay up-to-date with the latest Chorus Documentation news and events.</description>
         <lastBuildDate>Thu, 01 Jan 1970 00:00:00 GMT</lastBuildDate>
-        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
-        <generator>Feed for Node.js</generator>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
         <image>
             <title>Chorus Documentation Blog</title>
             <url>https://docs.chorus.cloud/img/ChorusWhite.png</url>
             <link>https://docs.chorus.cloud/blog</link>
         </image>
-        <copyright>Copyright © 2019 Chorus Software Solutions</copyright>
+        <copyright>Copyright © 2020 Chorus Software Solutions</copyright>
         <item>
             <title><![CDATA[Remits Launched on Dynamics 365 Healthcare Accelerator at Inspire]]></title>
             <link>https://docs.chorus.cloud/blog/2019/7/24/Remits-Release.html</link>
